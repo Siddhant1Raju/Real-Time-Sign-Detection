@@ -9,7 +9,7 @@ This system uses computer vision and machine learning techniques to detect and i
 ## Features
 
 - Real-time sign language detection from webcam feed
-- Support for [X number] of common sign language gestures
+- Support for English ASL sign language gestures
 - Easy-to-use Python interface
 - Utilizes TensorFlow Object Detection API for efficient and accurate detection
 
