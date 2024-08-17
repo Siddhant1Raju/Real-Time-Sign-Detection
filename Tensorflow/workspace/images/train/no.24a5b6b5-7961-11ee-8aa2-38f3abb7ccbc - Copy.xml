@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.24a5b6b5-7961-11ee-8aa2-38f3abb7ccbc - Copy.jpg</filename>
+	<path>C:\Users\siddh\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.24a5b6b5-7961-11ee-8aa2-38f3abb7ccbc - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>260</ymin>
+			<xmax>609</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>
